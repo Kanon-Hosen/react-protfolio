@@ -1,0 +1,42 @@
+.hero{
+    height: 100vh;
+    background-color: #111;
+    width: 100%;
+    overflow: hidden;
+}
+.card1{
+    height: 100vh;
+    width: 100%;
+    background-color: rebeccapurple;
+    overflow: hidden;
+}
+.card2{
+    height: 100vh;
+    width: 100%;
+    background-image: url('https://raw.githubusercontent.com/safak/youtube2022/dev-portfolio/img/bg1.png');
+    background-color:  #111;
+    overflow: hidden;
+    background-position: center;
+    background-size: cover;
+}
+.card3{
+    height: 100vh;
+    width: 100%;
+    background-image: url('https://raw.githubusercontent.com/safak/youtube2022/dev-portfolio/img/bg2.png');
+    background-color:  rebeccapurple;
+    overflow: hidden;
+    background-position: center;
+    background-size: cover;
+}
+.card4{
+    height: 100vh;
+    background-color: #111;
+    width: 100%;
+    overflow: hidden;
+}
+.card4 h2{
+    font-size: 12vw;
+}
+.project{
+    background-color: #111;
+}

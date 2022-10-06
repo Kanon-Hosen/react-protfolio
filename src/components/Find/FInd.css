@@ -1,0 +1,26 @@
+.find{
+    background-color: #111;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 2rem;
+}
+.find h1{
+    color: #555;
+    font-weight: 800;
+    font-size: 5vw;
+}
+.find a{
+    color: #555;
+    font-size: 2vw;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all .4s;
+    text-decoration: none;
+}
+.find a:hover{
+    text-decoration: underline;
+}
